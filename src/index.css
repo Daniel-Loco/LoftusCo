@@ -1,3 +1,23 @@
+:root {
+  --darkGreen: #026670;
+  --darkGreenHover: #02565e;
+  --darkDarkGreenHover: #003e44;
+  --green: #9FEDD7;
+  --greenHover: rgb(128, 204, 182);
+  --lightorange: #FFE8DB;
+  --orange: #FFA06B;
+  --orangeHover: #ff8b4d;
+  --darkOrange: #FF5F05;
+  --darkOrangeHover: #c74a01;
+  --white: #FFFFFF;
+  --lightgrey: #EDEAE5;
+  --dark: rgb(32, 32, 34);
+  --darkdark: rgb(18, 18, 19);
+  --black: #000000;
+  --gradient: linear-gradient(170deg, #BAF4E4 4.76%, #FEEBB0 47.2%, #FEB38A 86.24%);
+  --gradientHorzontal: linear-gradient(35deg, #BAF4E4 4.76%, #FEEBB0 47.2%, #FEB38A 86.24%);
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
